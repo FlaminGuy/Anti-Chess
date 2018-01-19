@@ -1,0 +1,4 @@
+*.o
+sf
+Stockfish/stockfish
+*.depend
